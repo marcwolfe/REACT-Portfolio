@@ -12,11 +12,11 @@ function Home() {
               </div>
               <div className='navigation pxy__30'>
                   <ul className="navbar d__flex">
-                        <a href="#Home"><li className="nav__items mx__15">Home</li></a>
-                        <a href="#About"><li className="nav__items mx__15">About</li></a>
-                        <a href="#Services"><li className="nav__items mx__15">Services</li></a>
-                        <a href="#Portfolio"><li className="nav__items mx__15">Portfolio</li></a>
-                        <a href="#Contact"><li className="nav__items mx__15">Contact</li></a>
+                    <a href="#Home"><li className="nav__items mx__15">Home</li></a>
+                    <a href="#About"><li className="nav__items mx__15">About</li></a>
+                    <a href="#Services"><li className="nav__items mx__15">Services</li></a>
+                    <a href="#Portfolio"><li className="nav__items mx__15">Portfolio</li></a>
+                    <a href="#Contact"><li className="nav__items mx__15">Contact</li></a>
                   </ul>
             </div>
           </div>
